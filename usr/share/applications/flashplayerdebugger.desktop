@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Adobe Flash Player Debugger
+Comment=Adobe Flash Player Debugger
+Exec=flashplayerdebugger
+Icon=/usr/share/icons/hicolor/scalable/apps/flashplayerdebugger.svg
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Video;AudioVideo;Player;
+NotShowIn=KDE;
+MimeType=application/x-flash-video;application/vnd.adobe.flash.movie;application/x-shockwave-flash;application/futuresplash;
+
