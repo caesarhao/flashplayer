@@ -4,8 +4,8 @@ Release:        7%{?dist}
 Summary:        Adobe flash player and debugger
 
 License:        Public Domain and MIT
-URL:            https://pagure.io/mailcap
-Source0:        https://pagure.io/releases/mailcap/%{name}-%{version}.tar.xz
+URL:            https://github.com/caesarhao/flashplayer
+Source0:        https://github.com/caesarhao/flashplayer/releases/download/%{version}/%{name}-%{version}.tar.xz
 BuildRequires:  
 BuildArch:      noarch
 
