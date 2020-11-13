@@ -1,2 +1,4 @@
-# flashplayer
-RPM package for installing flashplayer and debugger
+# flashplayer-standalone
+
+RPM package for installing flashplayer-standalone and debugger
+
